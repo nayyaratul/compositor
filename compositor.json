@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "compositor",
-      "subhead": "Compositor website",
+      "heading": "Atul Nayyar",
+      "subhead": "UI/UX Designer",
       "children": [
         {
           "component": "ui/TweetButton",
